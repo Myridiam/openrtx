@@ -3,3 +3,9 @@
 ################################################################################
 
 /.idea/.idea.OpenRDX
+/.vs
+/OpenRTX.Domain/bin/Debug
+/OpenRTX.Domain/obj
+/OpenRTX.v12.suo
+/OpenRTX.Tests/bin/Debug
+/OpenRTX.Tests/obj
